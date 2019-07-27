@@ -1,0 +1,2 @@
+﻿1>------ 已启动全部重新生成: 项目: BaseDemo001, 配置: Debug Any CPU ------
+1>You are using a preview version of .NET Core. See: https://aka.ms/dotnet-core-preview
