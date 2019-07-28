@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YamlConfiguration008", "Yam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log009", "Log009\Log009.csproj", "{A35F5517-9513-4781-A1B6-5003E6926A5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog010", "NLog010\NLog010.csproj", "{762EE19C-4069-4073-9A28-ABA8C5E5CC9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A35F5517-9513-4781-A1B6-5003E6926A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A35F5517-9513-4781-A1B6-5003E6926A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A35F5517-9513-4781-A1B6-5003E6926A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762EE19C-4069-4073-9A28-ABA8C5E5CC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762EE19C-4069-4073-9A28-ABA8C5E5CC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762EE19C-4069-4073-9A28-ABA8C5E5CC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762EE19C-4069-4073-9A28-ABA8C5E5CC9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
