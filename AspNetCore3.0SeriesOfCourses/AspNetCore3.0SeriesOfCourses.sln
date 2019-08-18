@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalizationLocaliztion011
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheck012", "HealthCheck012\HealthCheck012.csproj", "{BCA04C5B-42A1-45B9-99A7-1CFB143B5A7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientDemo013", "HttpClientDemo013\HttpClientDemo013.csproj", "{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{BCA04C5B-42A1-45B9-99A7-1CFB143B5A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCA04C5B-42A1-45B9-99A7-1CFB143B5A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCA04C5B-42A1-45B9-99A7-1CFB143B5A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
