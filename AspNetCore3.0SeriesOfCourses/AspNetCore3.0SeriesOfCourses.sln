@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheck012", "HealthChe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientDemo013", "HttpClientDemo013\HttpClientDemo013.csproj", "{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAndAuthorizationCookio014", "AuthenticationAndAuthorizationCookio\AuthenticationAndAuthorizationCookio014.csproj", "{6EA011FF-6B36-4B51-B135-32FEC9F175BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAndAuthorizationToken015", "AuthenticationAndAuthorizationToken015\AuthenticationAndAuthorizationToken015.csproj", "{DDC541F7-7634-4794-9575-B6CF70DD6DC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDEAAECB-DC3C-43BD-909A-131B25EBBCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA011FF-6B36-4B51-B135-32FEC9F175BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA011FF-6B36-4B51-B135-32FEC9F175BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA011FF-6B36-4B51-B135-32FEC9F175BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA011FF-6B36-4B51-B135-32FEC9F175BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC541F7-7634-4794-9575-B6CF70DD6DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC541F7-7634-4794-9575-B6CF70DD6DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC541F7-7634-4794-9575-B6CF70DD6DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC541F7-7634-4794-9575-B6CF70DD6DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
